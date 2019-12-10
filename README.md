@@ -1,0 +1,1 @@
+Bot for [telegram.org](telegram.org) that allows to know statistics about the current series of Cuban baseball. You can found it searching for **@beisbolcubano_bot** on [telegram.org](telegram.org).
