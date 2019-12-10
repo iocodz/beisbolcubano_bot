@@ -9,6 +9,7 @@ __pycache__/
 *$py.class
 
 env.py
+.gitignore
 
 # C extensions
 *.so
